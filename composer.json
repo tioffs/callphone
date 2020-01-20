@@ -1,0 +1,34 @@
+{
+  "name": "tioffs/callphone",
+  "version": "1.0.0",
+  "description": "Авторизация на сайте с помощью звонка",
+  "keywords": [
+    "call",
+    "auth",
+    "sms.ru",
+    "php"
+  ],
+  "type": "library",
+  "homepage": "https://github.com/tioffs/callphone",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tioffs",
+      "email": "me@timlab.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "callphone\\": "src/callphone/"
+    }
+  },
+  "support": {
+    "email": "me@timlab.ru"
+  },
+  "minimum-stability": "dev"
+}
