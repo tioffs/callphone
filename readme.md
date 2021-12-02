@@ -61,7 +61,7 @@ if ($call->check_status === 401) {
 ```
 ----
 
-Made with &#9829; from the [@tioffs][tioffs-url]
+Made with &#9829; from the @tioffs
 
 [tioffs-url]: https://timlab.ru/
 [license-url]: https://github.com/tioffs/callphone/blob/master/LICENSE
